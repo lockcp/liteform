@@ -2,7 +2,6 @@
 
 **LiteForm** 是一款极致轻量、高性能的表单收集工具。它专注于“清理、快速、简单”，采用单文件 Go 语言编写，支持中英双语，提供多链接管理功能。
 
-![Aesthetic](https://img.shields.io/badge/Style-Apple_Liquid_Glass-blue)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)
 
